@@ -19,6 +19,7 @@ width: 90%;
 .upcoming-shows ul li {
   /*padding-left: 30px;*/
   background-color: crimson;
+  font-size: 2em;
   width: 90%;
 }
 
@@ -45,7 +46,7 @@ fonts
 }
 
 .upcoming-shows {
-
+  font-size: .5em;
 }
 
 .band-info {
