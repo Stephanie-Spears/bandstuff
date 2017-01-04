@@ -5,8 +5,9 @@ layout
 text-align: center;
 }
 
-.upcoming-shows {
-
+.upcoming-shows ul li {
+  padding-left: 30px;
+  background-color: crimson;
 }
 
 .band-info{
