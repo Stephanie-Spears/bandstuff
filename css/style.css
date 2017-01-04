@@ -1,0 +1,54 @@
+/***********************
+layout
+***********************/
+.band-intro {
+text-align: center;
+}
+
+.upcoming-shows {
+
+}
+
+.band-info{
+  text-align: center;
+}
+
+.band-info p {
+  float: left;
+  width: 30%;
+  padding: 1.5%;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+/***********************
+fonts
+***********************/
+
+.band-intro {
+
+}
+
+.upcoming-shows {
+
+}
+
+.band-info {
+
+}
+/***********************
+colors
+***********************/
+.band-intro {
+
+}
+
+.upcoming-shows {
+
+}
+
+.band-info {
+
+}
